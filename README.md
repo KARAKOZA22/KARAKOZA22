@@ -17,4 +17,4 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KARAKOZA22&show_icons=true&locale=en&layout=compact" alt="sohailadiab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KARAKOZA22&show_icons=true&locale=en&layout=compact" alt="KARAKOZA" /></p>
